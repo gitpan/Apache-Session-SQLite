@@ -4,7 +4,7 @@ use strict;
 use vars qw($VERSION);
 use base 'Apache::Session';
 
-$VERSION='0.1';
+$VERSION='0.21';
 
 use Apache::Session;
 use Apache::Session::Lock::Null;
